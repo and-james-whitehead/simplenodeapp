@@ -9,7 +9,7 @@ jobs:
     - name: My first step
       env:
         MY_VAR: Hi there! My name is
-        FIRST_NAME: Chad
+        FIRST_NAME: James
         MIDDLE_NAME: Michael
         LAST_NAME: Crowell
       run: |
